@@ -1,0 +1,7 @@
+acess key: WB44t4MWNjG5q3Sd2EdkTfn8HL931NZY8R8szwgFnZs
+secret key : Re-YUhlJThtmAtGDJ9Cjn7lG5B3eLaW83tRjn6_Yf1c
+application id: 585429
+
+The API is available at https://api.unsplash.com/. Responses are sent as JSON.
+
+Authorization: Client-ID YOUR_ACCESS_KEY
