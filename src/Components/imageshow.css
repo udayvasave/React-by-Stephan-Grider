@@ -4,3 +4,11 @@
     box-sizing: border-box;
 }
 
+.imageShow-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.imageShow-container img{
+    /* width: 100%; */
+}

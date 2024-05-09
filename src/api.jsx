@@ -9,8 +9,9 @@ const searchPhotos = async(term) => {
         query: term
     }
  });
-// console.log(response);
- return response.data.result;
+// console.log(response.data.results);
+ return response.data.results;
+//  console.log(result);
 }
 
 export default searchPhotos;
