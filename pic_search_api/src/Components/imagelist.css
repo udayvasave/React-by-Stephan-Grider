@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imagel{
+  columns: 3 150px;
+}
+
+img{
+    width: 100%;
+    margin-bottom: 10px;
+}
