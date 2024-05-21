@@ -21,12 +21,11 @@ const svgMap = {
 
 const AnimalShow = ({type}) => {
 
-    const[clicks, setClicks]= useState(0);
-
+const[clicks, setClicks]= useState(0);
 
 const handleClick = ()=> {
- 
-setClicks(clicks + 1)
+setClicks(clicks + 1);
+console.log(clicks);
     
 }
 
